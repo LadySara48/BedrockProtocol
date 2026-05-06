@@ -1,5 +1,8 @@
 # BedrockProtocol
-[![CI](https://github.com/pmmp/BedrockProtocol/actions/workflows/ci.yml/badge.svg)](https://github.com/pmmp/BedrockProtocol/actions/workflows/ci.yml)
+[![CI](https://github.com/LadySara48/BedrockProtocol/actions/workflows/ci.yml/badge.svg)](https://github.com/LadySara48/BedrockProtocol/actions/workflows/ci.yml)
+
+Composer:
+`hearlov/bedrock-protocol`
 
 An implementation of the Minecraft: Bedrock Edition protocol in PHP
 
